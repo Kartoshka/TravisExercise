@@ -1,2 +1,2 @@
 language: java
-build: ant compile
+script: ant compile
